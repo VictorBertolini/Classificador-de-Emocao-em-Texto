@@ -192,6 +192,17 @@ $$
 
 Ou seja: **a emoção mais provável segundo o Naive Bayes**.
 
+# **Legenda (versão humana, não matemática)**
+
+* **$W$** → Uma palavra da frase
+* **$S$** → Um dos 6 sentimentos
+* **$\text{count}(W,S)$** → Quantas vezes a palavra apareceu em frases daquele sentimento
+* **$\text{Total}_S$** → Total de palavras de todas as frases do sentimento
+* **$\text{Total}_{\text{palavras}}$** → Total de todas as palavras do dataset
+* **$P(W|S)$** → Chance de uma palavra ter vindo daquele sentimento
+* **$R_S$** → Resultado final daquela emoção (multiplicação das probabilidades)
+* **$\text{Emotion}$** → Índice do maior valor, ou seja, a emoção mais provável
+
 
 
 ---
