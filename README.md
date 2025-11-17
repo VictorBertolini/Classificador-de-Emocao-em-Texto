@@ -263,3 +263,12 @@ Sentimento detectado: Love
 
 ---
 
+# Fonte: 
+Dataset obtido do kaggle em: [Emotions Dataset](https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset) 
+
+Stopwords obtidas em: [NLTK's list of english stopwords](https://gist.github.com/sebleier/554280) 
+
+
+
+
+
