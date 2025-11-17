@@ -53,7 +53,7 @@ Você verá o menu:
 
 ---
 
-# 🔧 Como o projeto funciona
+# Como o projeto funciona
 
 Abaixo está uma explicação detalhada do pipeline.
 
@@ -241,7 +241,7 @@ Isso é esperado para um Naive Bayes simples com foco no viés educativo.
 
 ---
 
-# 💬 Como usar o modelo (opção 3)
+# Como usar o modelo (opção 3)
 
 Depois de treinar ou carregar o `params.txt`, você pode digitar frases:
 
